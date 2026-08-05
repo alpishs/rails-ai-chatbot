@@ -1,24 +1,17 @@
-# README
+MVP Features
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+    Create a conversation
+    Send a message
+    Receive an AI response
+    View conversation history
 
-Things you may want to cover:
 
-* Ruby version
+Future Features
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    Streaming responses
+    Markdown rendering
+    Syntax highlighting
+    Multiple AI models
+    File upload
+    RAG
+    Authentication

@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  conversation: one
+  role: MyString
+  content: MyText
+  input_tokens: 1
+  output_tokens: 1
+  cost: 9.99
+  metadata: 
+
+two:
+  conversation: two
+  role: MyString
+  content: MyText
+  input_tokens: 1
+  output_tokens: 1
+  cost: 9.99
+  metadata: 
